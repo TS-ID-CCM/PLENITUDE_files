@@ -1,0 +1,26 @@
+{
+  "es": {
+    "menu": {
+      "home": "Inicio",
+      "team": "Equipo",
+      "sites": "Sitios",
+      "publications": "Publicaciones",
+      "resources": "Recursos",
+      "vertex": "VERTEX",
+      "contact": "Contacto"
+    },
+    "title": "Menú"
+  },
+  "en": {
+    "menu": {
+      "home": "Home",
+      "team": "Team",
+      "sites": "Sites",
+      "publications": "Publications",
+      "resources": "Resources",
+      "vertex": "VERTEX",
+      "contact": "Contact"
+    },
+    "title": "Menu"
+  }
+}
