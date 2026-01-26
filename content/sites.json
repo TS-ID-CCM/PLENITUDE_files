@@ -1,0 +1,35 @@
+{
+    "page_title": {
+    "en": "Participating Sites",
+    "es": "Sitios participantes"
+  },
+    "countries": [
+        {
+            "code": "COL",
+            "country": {
+                "en": "Colombia",
+                "es": "Colombia"
+            },
+            "category": {
+                "coordinator": {
+                    "title": {
+                        "en": "National Coordinators",
+                        "es": "Coordinadores Nacionales"
+                    },
+                    "members": [
+                        {
+                            "order": 0,
+                            "title": "Dr.",
+                            "name": "Luis Felipe Reyes",
+                            "institution": {
+                                "en": "Unisabana Center for Translational Science -UCTS",
+                                "es": "Unisabana Center for Translational Science -UCTS"
+                            }
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}
+

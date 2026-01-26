@@ -1,0 +1,48 @@
+{
+  "page_title": {
+    "en": "Publications",
+    "es": "Publicaciones"
+  },
+  "description": {
+    "en": "The PLENITUDE Study is generating high-quality, real-world evidence on severe community-acquired pneumonia (sCAP) across diverse healthcare settings.\n\nThrough international collaboration, we aim to better understand clinical patterns, microbiology, and host responses to improve outcomes for patients with severe pneumonia.\n\nOur findings will be shared with the global scientific and clinical community through peer-reviewed journals, conference presentations, and open-access reports.\n\nEach publication reflects the collective effort of the PLENITUDE network to advance the science and care of sCAP.",
+    "es": "El Estudio PLENITUDE está generando evidencia científica de alta calidad sobre la neumonía adquirida en la comunidad grave (NAC-grave) en diferentes contextos de atención médica.\n\nA través de una colaboración internacional, buscamos comprender mejor los patrones clínicos, la microbiología y la respuesta del huésped, con el fin de mejorar los desenlaces de los pacientes con neumonía grave.\n\nNuestros resultados se compartirán con la comunidad científica y médica mundial mediante publicaciones revisadas por pares, presentaciones en congresos y reportes de acceso abierto.\n\nCada publicación representa el esfuerzo conjunto de la red PLENITUDE por avanzar en la ciencia y el cuidado de la NAC-grave."
+  },
+  "empty_msn": {
+    "en": "You will find all study-related publications listed on this page as they become available.",
+    "es": "En esta sección encontrarás todas las publicaciones del estudio a medida que estén disponibles."
+  },
+  "publications": [
+    {
+      "date": "2026-10-06",
+      "title": "Assessing the Global Spread of Disease: EPIC IV Case Study",
+      "link": "https://erupt-study.eu/publications",
+      "authors": [
+        {
+          "order": 0,
+          "name": "Dr. John Doe"
+        },
+        {
+          "order": 1,
+          "name": "Prof. Jane Doe"
+        }
+      ],
+      "journal": "International Journal of Cancer"
+    },
+    {
+      "date": "2020-02-04",
+      "title": "Tocilizumab, sarilumab and anakinra in critically ill patients with COVID-19: a randomised, controlled, open-label, adaptive platform trial",
+      "link": "https://thorax.bmj.com/content/80/8/530.full",
+      "authors": [
+        {
+          "order": 0,
+          "name": "Lennie Derde"
+        },
+        {
+          "order": 1,
+          "name": "Anthony C Gordon"
+        }
+      ],
+      "journal": "Thorax - Critical Care"
+    }
+  ]
+}

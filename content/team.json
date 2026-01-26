@@ -1,0 +1,561 @@
+{
+  "page_title": {
+    "en": "Team",
+    "es": "Equipo"
+  },
+  "investigator": {
+    "title": {
+      "en": "Research Team",
+      "es": "Equipo Investigador"
+    },
+    "principal": {
+        "title": {
+          "en": "Principal Investigators",
+          "es": "Investigadores Principales"
+        },
+        "members": [
+          {
+            "order": 0,
+            "title": "Dr.",
+            "name": "Ignacio Martin-Loeches",
+            "profession": {
+              "en": "MD, PhD, FJFICMI",
+              "es": "MD, PhD, FJFICMI"
+            },
+            "info": {
+              "en": "•\tConsultant in Intensive Care Medicine at St. James's Hospital Dublin (Ireland)\n•\tProfessor, Trinity College Dublin (Ireland)\n•\tChair of the Research Committee, European Society of Intensive Care Medicine (ESICM)",
+              "es": "•\tEspecialista en  Medicina de Cuidados Intensivos en el Hospital St. James's de Dublín (Irlanda)\n•\tProfesor, Trinity College de Dublín (Irlanda)\n•\tPresidente del Comité de Investigación, Sociedad Europea de Medicina de Cuidados Intensivos - ESICM"
+            },
+            "email": "imartinl@tcd.ie"
+          },
+          {
+            "order": 1,
+            "title": "Dr.",
+            "name": "Luis Felipe Reyes",
+            "profession": {
+              "en": "MD, MSc, PhD",
+              "es": "MD, MSc, PhD"
+            },
+            "info": {
+              "en": "•\tDistinguished Professor of Infectious Diseases at the School of Medicine, Universidad de La Sabana (Colombia)\n•\tResearch Leader, Unisabana Center for Translational Science -UCTS (Colombia)\n•\tLeadership Academic Manager, Pandemic Sciences Institute, University of Oxford",
+              "es": "•\tProfesor Distinguido de Enfermedades Infecciosas en la Facultad de Medicina, Universidad de La Sabana (Colombia)\n•\tLíder de Investigación en el Unisabana Center for Translational Science -UCTS (Colombia)\n•\tGerente Académico de Liderazgo, Pandemic Sciences Institute, Universidad de Oxford"
+            },
+            "email": "luis.reyes5@unisabana.edu.co"
+          }
+        ]
+      },
+    "co": {
+        "title": {
+          "en": "Co-Investigators",
+          "es": "Co-Investigadores"
+        },
+        "members": [
+          {
+            "order": 0,
+            "title": "Dr.",
+            "name": "Eder Leonardo Cáceres",
+            "profession": {
+              "en": "MD, PhDc",
+              "es": "MD, PhDc"
+            },
+            "info": {
+              "en": "Consultant Intensivist and Head of the Critical Care Unit, Clínica Universidad de La Sabana (Colombia)",
+              "es": "Jefe Unidad de Cuidados Intensivos, Clínica Universidad de La Sabana (Colombia)"
+            },
+            "email": "eder.caceres1@clinicaunisabana.edu.co"
+          }
+        ]
+      }
+  },
+  "committee": {
+    "title": {
+      "en": "Steering Committee",
+      "es": "Comité Directivo"
+    },
+    "members": [
+      {
+        "order": 0,
+        "title": "Dr.",
+        "name": "Alejandro Rodriguez Oviedo",
+        "profession": {
+          "en": "MD, PhD – Intensive Care Specialist",
+          "es": "MD, PhD – Especialista en Medicina de Cuidados Intensivos"
+        },
+        "institution": {
+          "en": "Hospital Universitari Joan XXIII de Tarragona",
+          "es": "Hospital Universitari Joan XXIII de Tarragona"
+        },
+        "country": {
+          "en": "Spain",
+          "es": "España"
+        },
+        "code": "ESP"
+      },
+      {
+        "order": 1,
+        "title": "Dr.",
+        "name": "Andy Conway Morris",
+        "profession": {
+          "en": "MD, PhD, FRCA, FFICM – Intensive Care and Anaesthesia Specialist",
+          "es": "MD, PhD, FRCA, FFICM – Especialista en Medicina de Cuidados Intensivos y Anestesia"
+        },
+        "institution": {
+          "en": "Cambridge University Hospitals",
+          "es": "Cambridge University Hospitals"
+        },
+        "country": {
+          "en": "United Kingdom",
+          "es": "Reino Unido"
+        },
+        "code": "GBR"
+      },
+      {
+        "order": 2,
+        "title": "Dr.",
+        "name": "Ary Serpa",
+        "profession": {
+          "en": "MD, PhD, FCICM – Pulmonology and Intensive Care Medicine Specialist",
+          "es": "MD, PhD, FCICM – Especialista en Neumología y Medicina de Cuidados Intensivos"
+        },
+        "institution": {
+          "en": "Austin Hospital",
+          "es": "Austin Hospital"
+        },
+        "country": {
+          "en": "Australia",
+          "es": "Australia"
+        },
+        "code": "AUS"
+      },
+      {
+        "order": 3,
+        "title": "Dr.",
+        "name": "Carina Balasini",
+        "profession": {
+          "en": "MD – Intensive Care Specialist",
+          "es": "MD – Especialista en Medicina de Cuidados Intensivos"
+        },
+        "institution": {
+          "en": "Universidad de Buenos Aires",
+          "es": "Universidad de Buenos Aires"
+        },
+        "country": {
+          "en": "Argentina",
+          "es": "Argentina"
+        },
+        "code": "ARG"
+      },
+      {
+        "order": 4,
+        "title": "Dr.",
+        "name": "Daniel Munblit",
+        "profession": {
+          "en": "MD, MSc, PhD – Paediatrician and Clinical Researcher in Allergy and Immunology",
+          "es": "MD, MSc, PhD – Pediatra e Investigador Clínico en Alergia e Inmunología"},
+        "institution": {
+          "en": "Institute of Child's Health, Sechenov First Moscow State Medical University",
+          "es": "Institute of Child's Health, Sechenov First Moscow State Medical University"
+        },
+        "country": {
+          "en": "Russia / United Kingdom",
+          "es": "Rusia / Reino Unido"
+        },
+        "code": "RUS"
+      },
+      {
+        "order": 5,
+        "title": "Dr.",
+        "name": "Eduardo Kattan",
+        "profession": {
+          "en": "MD – Intensive Care and Anaesthesia Specialist",
+          "es": "MD – Especialista en Medicina de Cuidados Intensivos y Anestesia"
+        },
+        "institution": {
+          "en": "Departamento de Medicina Intensiva, Facultad de Medicina, Pontificia Universidad Católica de Chile",
+          "es": "Departamento de Medicina Intensiva, Facultad de Medicina, Pontificia Universidad Católica de Chile"
+        },
+        "country": {
+          "en": "Chile",
+          "es": "Chile"
+        },
+        "code": "CHL"
+      },
+      {
+        "order": 6,
+        "title": "Dr.",
+        "name": "Flavia Machado",
+        "profession": {
+          "en": "MD, MSc, PhD – Intensivist and infectious disease specialist",
+          "es": "MD, MSc, PhD – Especialista en Medicina Intensiva y Enfermedades Infecciosas"
+        },
+        "institution": {
+          "en": "Department of Anesthesiology, Pain, and Intensive Care, Federal University of Sao Paulo",
+          "es": "Department of Anesthesiology, Pain, and Intensive Care, Federal University of Sao Paulo"
+        },
+        "country": {
+          "en": "Brazil",
+          "es": "Brasil"
+        },
+        "code": "BRA"
+      },
+      {
+        "order": 7,
+        "title": "Dr.",
+        "name": "Gennaro de Pascale ",
+        "profession": {
+          "en": "MD – Intensive Care Specialist",
+          "es": "MD – Especialista en Medicina de Cuidados Intensivos"
+        },
+        "institution": {
+          "en": "Policlinico A. Gemelli Hospital - Catholic University of the Sacred Heart",
+          "es": "Policlinico A. Gemelli Hospital - Catholic University of the Sacred Heart"
+        },
+        "country": {
+          "en": "Italy",
+          "es": "Italia"
+        },
+        "code": "ITA"
+      },
+      {
+        "order": 8,
+        "title": "Dr.",
+        "name": "Hallie Prescott",
+        "profession": {
+          "en": "MD, MSc – Pulmonary and Critical Care Medicine Specialist",
+          "es": "MD, MSc – Especialista en Medicina Pulmonar y Cuidados Intensivos"
+        },
+        "institution": {
+          "en": "Pulmonary & Critical Care Medicine, University of Michigan",
+          "es": "Pulmonary & Critical Care Medicine, University of Michigan"
+        },
+        "country": {
+          "en": "United States",
+          "es": "Estados Unidos"
+        },
+        "code": "USA"
+      },
+      {
+        "order": 9,
+        "title": "Prof.",
+        "name": "Ignacio-Martin Loeches",
+        "profession": {
+          "en": "MD, PhD, FJFICMI – Intensive Care Specialist",
+          "es": "MD, PhD, FJFICMI – Especialista en Medicina de Cuidados Intensivos"
+        },
+        "institution": {
+          "en": "Department of Anaesthesia and Critical Care Medicine, St James's Hospital",
+          "es": "Department of Anaesthesia and Critical Care Medicine, St James's Hospital"
+        },
+        "country": {
+          "en": "Ireland",
+          "es": "Irlanda"
+        },
+        "code": "IRL"
+      },
+      {
+        "order": 10,
+        "title": "Dr.",
+        "name": "Jorge Salluh",
+        "profession": {
+          "en": "MD, PhD – Intensive Care Specialist",
+          "es": "MD, PhD – Especialista en Medicina de Cuidados Intensivos"
+        },
+        "institution": {
+          "en": "D’Or Institute for Research and Education",
+          "es": "D’Or Institute for Research and Education"
+        },
+        "country": {
+          "en": "Brazil",
+          "es": "Brasil"
+        },
+        "code": "BRA"
+      },
+      {
+        "order": 11,
+        "title": "Dr.",
+        "name": "Juliana Ferreira",
+        "profession": {
+          "en": "MD, PhD – Pulmonary and Critical Care Medicine Specialist",
+          "es": "MD, PhD – Especialista en Medicina Pulmonar y Cuidados Intensivos"
+        },
+        "institution": {
+          "en": "Department of Pulmonary and Critical Care Medicine, University of São Paulo",
+          "es": "Department of Pulmonary and Critical Care Medicine, University of São Paulo"
+        },
+        "country": {
+          "en": "Brazil",
+          "es": "Brasil"
+        },
+        "code": "BRA"
+      },
+      {
+        "order": 12,
+        "title": "Dr.",
+        "name": "Kathryn Puxty",
+        "profession": {
+          "en": "MD, PhD – Intensive Care Medicine & Anaesthesia Secialist",
+          "es": "MD, PhD – Especialista en Medicina de Cuidados Intensivos y Anestesia"
+        },
+        "institution": {
+          "en": "Department of Intensive Care, Glasgow Royal Infirmary",
+          "es": "Department of Intensive Care, Glasgow Royal Infirmary"
+        },
+        "country": {
+          "en": "United Kingdom",
+          "es": "Reino Unido"
+        },
+        "code": "GBR"
+      },
+      {
+        "order": 13,
+        "title": "Dr.",
+        "name": "Kristina Rudd",
+        "profession": {
+          "en": "MD, MPH – Critical Care Medicine / Pulmonary & Critical Care Specialist",
+          "es": "MD, MPH – Especialista en Medicina Pulmonar y Cuidados Intensivos"
+        },
+        "institution": {
+          "en": "Department of Critical Care Medicine, University of Pittsburgh",
+          "es": "Department of Critical Care Medicine, University of Pittsburgh"
+        },
+        "country": {
+          "en": "United States",
+          "es": "Estados Unidos"
+        },
+        "code": "USA"
+      },
+      {
+        "order": 14,
+        "title": "Dr.",
+        "name": "Liesbet De Bus",
+        "profession": {
+          "en": "MD, PhD – Intensive Care Medicine & Antimicrobial Stewardship Specialist",
+          "es": "MD, PhD – Intensive Care Medicine & Antimicrobial Stewardship Specialist"
+        },
+        "institution": {
+          "en": "Department of Intensive Care Medicine, Ghent University Hospital / Ghent University",
+          "es": "Especialista en Medicina de Cuidados Intensivos y Manejo de Antimicrobianos"
+        },
+        "country": {
+          "en": "Belgium",
+          "es": "Bélgica"
+        },
+        "code": "BEL"
+      },
+      {
+        "order": 15,
+        "title": "Dr.",
+        "name": "Luis Felipe Reyes",
+        "profession": {
+          "en": "MD, MSc, PhD – Critical Care Medicine Specialist",
+          "es": "MD, MSc, PhD – Especialista en Enfermedades Infecciosas y Medicina de Cuidados Intensivos"
+        },
+        "institution": {
+          "en": "Universidad de La Sabana",
+          "es": "Universidad de La Sabana"
+        },
+        "country": {
+          "en": "Colombia",
+          "es": "Colombia"
+        },
+        "code": "COL"
+      },
+      {
+        "order": 16,
+        "title": "Dr.",
+        "name": "Marcus Schultz",
+        "profession": {
+          "en": "MD, PhD – Intensive Care and Pulmonary Medicine Specialist",
+          "es": "MD, PhD – Especialista en Medicina de Cuidados Intensivos y Medicina Pulmonar"
+        },
+        "institution": {
+          "en": "Department of Intensive Care Medicine, University of Amsterdam ",
+          "es": "Department of Intensive Care Medicine, University of Amsterdam "
+        },
+        "country": {
+          "en": "Netherlands",
+          "es": "Países Bajos"
+        },
+        "code": "NLD"
+      },
+      {
+        "order": 17,
+        "title": "Dr.",
+        "name": "Miguel Ibarra-Estrada",
+        "profession": {
+          "en": "MD, PhD – Intensive Care Medicine Specialist",
+          "es": "MD, PhD – Especialista en Medicina de Cuidados Intensivos"
+        },
+        "institution": {
+          "en": "Unidad de Terapia Intensiva, Hospital Civil Fray Antonio Alcalde",
+          "es": "Unidad de Terapia Intensiva, Hospital Civil Fray Antonio Alcalde"
+        },
+        "country": {
+          "en": "Mexico",
+          "es": "México"
+        },
+        "code": "MEX"
+      },
+      {
+        "order": 18,
+        "title": "Dr.",
+        "name": "Niraj Tyagi",
+        "profession": {
+          "en": "MD, DM – Critical Care Medicine Specialist",
+          "es": "MD, DM – Especialista en Medicina de Cuidados Intensivos"
+        },
+        "institution": {
+          "en": "Institute of Critical Care Medicine",
+          "es": "Institute of Critical Care Medicine"
+        },
+        "country": {
+          "en": "India",
+          "es": "India"
+        },
+        "code": "IND"
+      },
+      {
+        "order": 19,
+        "title": "Dr.",
+        "name": "Pedro Povoa",
+        "profession": {
+          "en": "MD, PhD – Intensive Care and Pulmonary Medicine Specialist",
+          "es": "MD, PhD – Especialista en Medicina de Cuidados Intensivos y Medicina Pulmonar"
+        },
+        "institution": {
+          "en": "Hospital São Francisco Xavier, ULS Lisboa Ocidental (ULSLO)",
+          "es": "Hospital São Francisco Xavier, ULS Lisboa Ocidental (ULSLO)"
+        },
+        "country": {
+          "en": "Portugal",
+          "es": "Portugal"
+        },
+        "code": "PRT"
+      },
+      {
+        "order": 20,
+        "title": "Dr.",
+        "name": "Saad Nseir",
+        "profession": {
+          "en": "MD, PhD – Intensive Care Medicine and Pulmonary Infections Specialist",
+          "es": "MD, PhD – Especialista en Medicina de Cuidados Intensivos y Enfermedades Pulmonares Infecciosas"
+        },
+        "institution": {
+          "en": "Critical Care Center, CHU Lille",
+          "es": "Critical Care Center, CHU Lille"
+        },
+        "country": {
+          "en": "France",
+          "es": "Francia"
+        },
+        "code": "FRA"
+      },
+      {
+        "order": 21,
+        "title": "Dr.",
+        "name": "Shigeki Fujitani",
+        "profession": {
+          "en": "MD, PhD – Emergency and Critical Care Medicine Specialist",
+          "es": "MD, PhD – Especialista en Medicina de Emergencias y Cuidados Intensivos"
+        },
+        "institution": {
+          "en": "Department of Emergency and Critical Care Medicine, St. Marianna University Hospital",
+          "es": "Department of Emergency and Critical Care Medicine, St. Marianna University Hospital"
+        },
+        "country": {
+          "en": "Japan",
+          "es": "Japón"
+        },
+        "code": "JPN"
+      },
+      {
+        "order": 22,
+        "title": "Dra.",
+        "name": "Xuelian Liao",
+        "profession": {
+          "en": "MD – Critical Care Medicine Specialist",
+          "es": "MD – Especialista en Medicina de Cuidados Intensivos"
+        },
+        "institution": {
+          "en": "Department of Intensive Care Medicine, West Tianfu Hospital, Sichuan University",
+          "es": "Departamento de Medicina de Cuidados Intensivos, Hospital Tianfu del Oeste, Universidad de Sichuan"
+        },
+        "country": {
+          "en": "China",
+          "es": "China"
+        },
+        "code": "CHN"
+      },
+      {
+        "order": 23,
+        "title": "Dr.",
+        "name": "Yuichiro Shindo",
+        "profession": {
+          "en": "MD, PhD – Pulmonary and Critical Care Medicine Specialist",
+          "es": "MD, PhD – Especialista en Medicina Pulmonar y Cuidados Intensivos"
+        },
+        "institution": {
+          "en": "Department of Respiratory Medicine, Nagoya University",
+          "es": "Department of Respiratory Medicine, Nagoya University"
+        },
+        "country": {
+          "en": "Japan",
+          "es": "Japón"
+        },
+        "code": "JPN"
+      }
+      ]
+  },
+  "coordinator": {
+    "title": {
+      "en": "Research Coordination Team",
+      "es": "Equipo Coordinador"
+    },
+    "members": [
+      {
+        "order": 0,
+        "title": "Dr.",
+        "name": "Lina Martínez Lemus",
+        "profession": {
+          "en": "MD - Bacteriologist",
+          "es": "MD - Bacteriologist"
+        },
+        "position": {
+          "en": "Medical Research Coordinator",
+          "es": "Medical Research Coordinator"
+        },
+        "institution": {
+          "en": "Universidad de La Sabana",
+          "es": "Universidad de La Sabana"
+        },
+        "country": {
+          "en": "Colombia",
+          "es": "Colombia"
+        },
+        "email": "linamarle@unisabana.edu.co"
+      },
+      {
+        "order": 1,
+        "title": "",
+        "name": "Ana María Crispin",
+        "profession": {
+          "en": "Nurse – Critical Care Specialist",
+          "es": "Nurse – Critical Care Specialist"
+        },
+        "position": {
+          "en": "Project Manager Coordinator",
+          "es": "Project Manager Coordinator"
+        },
+        "institution": {
+          "en": "Universidad de La Sabana",
+          "es": "Universidad de La Sabana"
+        },
+        "country": {
+          "en": "Colombia",
+          "es": "Colombia"
+        },
+        "email": "ana.crispin1@unisabana.edu.co"
+      }
+    ]
+  }
+}

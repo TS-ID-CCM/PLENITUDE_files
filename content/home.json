@@ -1,0 +1,76 @@
+{
+  "cards": [
+    {
+      "order": 0,
+      "title": {
+        "en": "Countries",
+        "es": "Países"
+      }
+    },
+    {
+      "order": 1,
+      "title": {
+        "en": "Active Sites",
+        "es": "Sitios Activos"
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "en": "Patient Enrolled",
+        "es": "Pacientes Incluidos"
+      }
+    }
+  ],
+  "slogan": {
+    "es": "Generando evidencia global para transformar la atención a la neumonía grave",
+    "en": "Building global evidence to transform care for severe pneumonia"
+  },
+  "study_description": [
+    {
+      "order": 0,
+      "title": {
+        "en": "A major global health challenge",
+        "es": "Un importante desafío para la salud mundial"
+      },
+      "text": {
+        "en": "Severe community-acquired pneumonia (sCAP) is a global healthcare challenge marked by high morbidity and mortality, especially among patients needing intensive care. It is one of the most common serious causes of sepsis in hospitalized patients worldwide.",
+        "es": "La neumonía grave adquirida en la comunidad (NAC-grave) constituye un problema sanitario mundial caracterizado por una alta morbilidad y mortalidad, especialmente entre los pacientes que requieren cuidados intensivos. Es una de las causas graves más comunes de sepsis en pacientes hospitalizados a nivel mundial."
+      }
+    },
+    {
+      "order": 1,
+      "title": {
+        "en": "Prospective global collaboration",
+        "es": "Colaboración global prospectiva"
+      },
+      "text": {
+        "en": "PLENITUDE Study is a multinational, prospective cohort designed to strengthen understanding and management of sCAP by integrating clinical, microbiological, and host-response data across diverse healthcare settings.",
+        "es": "El estudio PLENITUDE es una cohorte multinacional y prospectiva diseñada para fortalecer la comprensión y el manejo de La neumonía grave adquirida en la comunidad (NAC-grave) mediante la integración de datos clínicos, microbiológicos y de respuesta del huésped en diversos entornos de atención sanitaria."
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "en": "Standardised research framework application",
+        "es": "Aplicación de un marco de investigación estandarizado"
+      },
+      "text": {
+        "en": "Using the ISARIC/WHO standardised research framework - Clinical Characterisation Protocol (CCP), PLENITUDE aims to generate real-world evidence that supports better diagnosis, treatment, and outcomes for patients with sCAP, particularly in low- and middle-income countries.",
+        "es": "Utilizando el marco de investigación estandarizado ISARIC/WHO — el Protocolo de Caracterización Clínica (CCP)—, el estudio PLENITUDE tiene como objetivo generar evidencia del mundo real que respalde un mejor diagnóstico, tratamiento y resultados en pacientes con neumonía grave adquirida en la comunidad NAC-grave, especialmente en países de ingresos bajos y medianos."
+      }
+    }
+  ],
+  "founders": {
+    "title": {
+      "en": "Funding Entities",
+      "es": "Entidades Financiadoras"
+    },
+    "logos": [
+      "/assets/logos/universidad de la sabana.png",
+      "/assets/logos/isaric.png",
+      "/assets/logos/esicm.png",
+      "/assets/logos/liven.png"
+    ]
+  }
+}

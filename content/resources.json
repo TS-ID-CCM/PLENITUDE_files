@@ -1,0 +1,48 @@
+{
+  "page_title": {
+    "en": "Resources",
+    "es": "Recursos"
+  },
+  "description": {
+    "en": "Access key resources and documents developed through the PLENITUDE Study network.\n\nEach file represents the joint effort of teams committed to advancing global understanding of severe pneumonia.\n\nWe invite you to browse, learn, and connect with us as we work together to improve care for patients with severe pneumonia.\n\nKey documents:",
+    "es": "Accede a los principales recursos y documentos desarrollados en la red del Estudio PLENITUDE.\n\nCada material refleja el esfuerzo conjunto de equipos comprometidos con ampliar el conocimiento global sobre la neumonía grave.\n\nTe invitamos a recorrerlos, aprender y conectar con nosotros en esta misión por mejorarla atención de los pacientes con neumonía grave.\n\nDocumentos principales:"
+  },
+  "files": [
+    {
+      "order": 0,
+      "icon": "PLENITUD Protocol Summary.png",
+      "name": {
+        "en": "PLENITUD Protocol Summary",
+        "es": "Resumen del protocolo del estudio PLENITUDE"
+      },
+      "url": "https://raw.githubusercontent.com/TS-ID-CCM/PLENITUDE_files/e59a2c521082c67683dd83317d44e0fe820c1823/PLENITUD%20Protocol%20Summary.pdf"
+    },
+    {
+      "order": 1,
+      "icon": "PLENITUD Protocol Study.png",
+      "name": {
+        "en": "PLENITUD Protocol Study",
+        "es": "Protocolo del estudio PLENITUDE"
+      },
+      "url": "https://raw.githubusercontent.com/TS-ID-CCM/PLENITUDE_files/e59a2c521082c67683dd83317d44e0fe820c1823/PLENITUD%20Protocol%20Study.pdf"
+    },
+    {
+      "order": 2,
+      "icon": "Informed Consent Form.png",
+      "name": {
+        "en": "Informed Consent Form (ICF)",
+        "es": "Formulario de Consentimiento Informado (FCI)"
+      },
+      "url": "https://raw.githubusercontent.com/TS-ID-CCM/PLENITUDE_files/e59a2c521082c67683dd83317d44e0fe820c1823/Informed%20Consent%20Form%20(ICF).pdf"
+    },
+    {
+      "order": 3,
+      "icon": "Publication Policy.png",
+      "name": {
+        "en": "Publication Policy",
+        "es": "Políticas de publicación"
+      },
+      "url": "https://raw.githubusercontent.com/TS-ID-CCM/PLENITUDE_files/e59a2c521082c67683dd83317d44e0fe820c1823/Publication%20Policy.pdf"
+    }
+  ]
+}

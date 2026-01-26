@@ -1,0 +1,23 @@
+{
+  "page_title": {
+    "en": "Contact us",
+    "es": "Contáctanos"
+  },
+  "address_title": {
+    "en": "Address",
+    "es": "Dirección"
+  },
+  "email_title": {
+    "en": "Email",
+    "es": "Correo electrónico"
+  },
+  "content": [
+    {
+      "order": 0,
+      "name": "Universidad de La Sabana\nUnisabana Center for Traslational Science – UCTS",
+      "address": "Campus del Puente del Común, Km. 7, Autopista Norte de Bogotá.\nChía, Cundinamarca, Colombia.",
+      "email": "ucts@unisabana.edu.co",
+      "phone": "+31 88 75 551 96"
+    }
+  ]
+}
